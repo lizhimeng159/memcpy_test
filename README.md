@@ -1,6 +1,6 @@
 # memcpy_test
 
-## result like this
+## result likes this
 
 ```
 memcpy size(kb):1         time used per copy(ms): 0.0004406   time used per 4kb(us):1.7624         memcpy speed(GB/s):2.16449
